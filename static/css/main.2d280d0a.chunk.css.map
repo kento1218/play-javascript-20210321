@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,aACE,YAAa,CACb,gBAAiB,CACjB,SAAU,CACV,cAAe,CACf,aACF","file":"main.2d280d0a.chunk.css","sourcesContent":[".Menu button {\n  padding: 20px;\n  margin: 10px auto;\n  width: 50%;\n  font-size: 20pt;\n  display: block;\n}\n"]}
